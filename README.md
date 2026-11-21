@@ -11,7 +11,7 @@ I work across AI Data Annotation, Data Analysis, and Data Science — from label
 
 **Data Analysis**
 - Data cleaning, exploration, and visualization
-- Excel / SQL, dashboards, reporting insights
+- SQL, Excel, dashboards, reporting insights
 - Turning messy data into clear decisions
 
 **Data Science**
@@ -25,6 +25,11 @@ Python, R, SQL, Excel, Git & GitHub, Jupyter, Pandas, NumPy, Matplotlib, Tidyver
 
 ### Certifications
 
-- [Google Data Analytics Professional Certificate. Coursera (2023)]
+- Google Data Analytics Professional Certificate - Coursera (2023)
+
+### Projects
+
+- rubric-review-examples - How I review AI evaluation rubrics for clarity and fairness
+- python-data-analysis - Exploratory analysis of restaurant tips data in Python
 
 Currently open to: AI Trainer, Data Annotator, Data Analyst, Junior Data Scientist roles.
